@@ -4,9 +4,6 @@
 ### Kelas          : TI.22.A5 ### 
 ### Dosen Pengampu : Donny Maulana S.Kom., M.M.S.I
 
-# Tugas Pertemuan 6
-# Buatlah Method Program java Toast Number, dengan menghasilkan Bilangan Fibonacci
-
 ![gambar tugas](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/49aaf952-758f-404e-a68e-7da72c9b66b1)
 
 # Langkah-Langkah
