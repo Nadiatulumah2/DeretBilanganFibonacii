@@ -4,9 +4,8 @@
 ### Kelas          : TI.22.A5 ### 
 ### Dosen Pengampu : Donny Maulana S.Kom., M.M.S.I
 
-# ProjectFibonacci
-
 # Tugas Pertemuan 6
+# Buatlah Method Program java Toast Number, dengan menghasilkan Bilangan Fibonacci
 
 ![gambar tugas](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/49aaf952-758f-404e-a68e-7da72c9b66b1)
 
@@ -236,22 +235,15 @@ public class MainActivity extends AppCompatActivity {
 Untuk run app ini saya menggunakan hp android . Berikut ini adalah tampilan dari aplikasi yang telah saya buat :
 
 * Tombol Toast ditekan, maka akan muncul message "Bilangan Fibonacci" seperti berikut
-![WhatsApp Image 2023-11-02 at 20 05 54](https://github.com/Nadiatulumah2/DeretBilanganFibonacii/assets/129835302/747b20a2-38aa-4dbe-a39b-234b61e02ca6)
-![WhatsApp Image 2023-11-02 at 20 05 55](https://github.com/Nadiatulumah2/DeretBilanganFibonacii/assets/129835302/19a52e7e-3798-4a2f-bc71-29210053562d)
-![WhatsApp Image 2023-11-02 at 20 05 56](https://github.com/Nadiatulumah2/DeretBilanganFibonacii/assets/129835302/cf07d42f-ad03-4164-ba49-325cfc720e43)
-![WhatsApp Image 2023-11-02 at 20 05 56 (1)](https://github.com/Nadiatulumah2/DeretBilanganFibonacii/assets/129835302/58c86803-2b4e-4681-9b1b-a88e4b7e3c71)
-![WhatsApp Image 2023-11-02 at 20 05 56 (2)](https://github.com/Nadiatulumah2/DeretBilanganFibonacii/assets/129835302/6fec538c-407a-431c-9408-a8873a2094ac)
-![WhatsApp Image 2023-11-02 at 20 05 57](https://github.com/Nadiatulumah2/DeretBilanganFibonacii/assets/129835302/a0c6e289-c61a-40c1-9ceb-d0299b3dfcd3)
-![WhatsApp Image 2023-11-02 at 20 05 57 (1)](https://github.com/Nadiatulumah2/DeretBilanganFibonacii/assets/129835302/b492d6dc-0641-4883-b0f0-250652a4c770)
-![WhatsApp Image 2023-11-02 at 20 05 57 (2)](https://github.com/Nadiatulumah2/DeretBilanganFibonacii/assets/129835302/5ebea146-514b-4ff1-9386-29e7d9666738)
-![WhatsApp Image 2023-11-02 at 20 05 58](https://github.com/Nadiatulumah2/DeretBilanganFibonacii/assets/129835302/597968a9-597a-449e-81ce-f0f89449d0f4)
-![WhatsApp Image 2023-11-02 at 20 05 58 (1)](https://github.com/Nadiatulumah2/DeretBilanganFibonacii/assets/129835302/9cd63301-c74c-4022-8400-b742ccfa7074)
-![WhatsApp Image 2023-11-02 at 20 05 58 (2)](https://github.com/Nadiatulumah2/DeretBilanganFibonacii/assets/129835302/38ebd791-55f6-4506-a354-3ac5a7bfb8a0)
-![WhatsApp Image 2023-11-02 at 20 05 58 (3)](https://github.com/Nadiatulumah2/DeretBilanganFibonacii/assets/129835302/ecbc331f-4525-4ca0-92ca-312670fdb81b)
-![WhatsApp Image 2023-11-02 at 20 05 59](https://github.com/Nadiatulumah2/DeretBilanganFibonacii/assets/129835302/e8cd6b7e-5d97-4ffa-9dad-b08e43b94b9e)
+
+
+https://github.com/Nadiatulumah2/DeretBilanganFibonacii/assets/129835302/1bcda1fc-b414-4263-b094-149bb99a01b2
+
+
 
 #Jika sudah sampai batas limit yang di tentukan maka akan teriset seperti awal
-![WhatsApp Image 2023-11-02 at 20 32 46](https://github.com/Nadiatulumah2/DeretBilanganFibonacii/assets/129835302/796c371b-0502-4c03-970c-85731e2966ef)
+![WhatsApp Image 2023-11-02 at 20 05 54](https://github.com/Nadiatulumah2/DeretBilanganFibonacii/assets/129835302/ffbe40b2-fe0f-4af9-a873-c8ab0d045841)
+
 
 
 
