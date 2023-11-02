@@ -250,6 +250,9 @@ Untuk run app ini saya menggunakan hp android . Berikut ini adalah tampilan dari
 ![WhatsApp Image 2023-11-02 at 20 05 58 (3)](https://github.com/Nadiatulumah2/DeretBilanganFibonacii/assets/129835302/ecbc331f-4525-4ca0-92ca-312670fdb81b)
 ![WhatsApp Image 2023-11-02 at 20 05 59](https://github.com/Nadiatulumah2/DeretBilanganFibonacii/assets/129835302/e8cd6b7e-5d97-4ffa-9dad-b08e43b94b9e)
 
+#Jika sudah sampai batas limit yang di tentukan maka akan teriset seperti awal
+![WhatsApp Image 2023-11-02 at 20 32 46](https://github.com/Nadiatulumah2/DeretBilanganFibonacii/assets/129835302/796c371b-0502-4c03-970c-85731e2966ef)
+
 
 
 
