@@ -238,9 +238,6 @@ https://github.com/Nadiatulumah2/DeretBilanganFibonacii/assets/129835302/1bcda1f
 
 
 
-#Jika sudah sampai batas limit yang di tentukan maka akan teriset seperti awal
-![WhatsApp Image 2023-11-02 at 20 05 54](https://github.com/Nadiatulumah2/DeretBilanganFibonacii/assets/129835302/ffbe40b2-fe0f-4af9-a873-c8ab0d045841)
-
 
 
 
