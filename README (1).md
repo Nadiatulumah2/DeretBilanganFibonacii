@@ -1,10 +1,10 @@
 # DeretBilanganFibonacci
 
-Nama : Syifa Aurellia Rahma
+Nama : Nadiatul umah
 
-NIM : 312210009
+NIM : 312210500
 
-Kelas : TI.22.A1
+Kelas : TI.22.A5
 
 Mata Kuliah : Pemrograman Mobile 1
 
@@ -296,7 +296,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-![Screenshot (116)](https://github.com/syifaaurellia/DeretBilanganFibonacci/assets/115867244/3ce9415d-bf44-45fc-a8eb-cdf5734ffd3c)
+
 
 
 
